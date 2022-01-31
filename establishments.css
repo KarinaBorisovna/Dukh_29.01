@@ -528,7 +528,7 @@ body {
 }
 .popup__close {
   position: absolute;
-  background-image: url(src/img/close.png);
+  //background-image: url(src/img/close.png);
   top: 5px;
   right: 5px;
   width: 25px;
