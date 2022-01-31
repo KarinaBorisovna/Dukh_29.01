@@ -536,6 +536,10 @@ body {
   background-repeat: no-repeat;
   background-size: 25px;
 }
+.popup__close-img {
+      top: 0;
+      right: 0;
+}
 .popup__address {
   display: flex;
   justify-content: space-around;
@@ -1186,6 +1190,10 @@ body {
     top: 15px;
     right: 15px;
   }
+  .popup__close-img {
+      top: 0;
+      right: 0;
+  }
   .popup__discription {
     margin-top: 40px;
   }
@@ -1253,6 +1261,10 @@ body {
   .popup__close {
     top: 15px;
     right: 15px;
+  }
+  .popup__close-img {
+      top: 0;
+      right: 0;
   }
   .popup__address {
     display: block;
